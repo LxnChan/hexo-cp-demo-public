@@ -1,0 +1,9 @@
+name = "hexo-cfw-demo-public"
+type = "webpack"
+route = ''
+zone_id = 'a927e24553aa117433c3b962b73487e7'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./public",entry-point = "workers-site"}
+compatibility_date = "2022-06-29"
